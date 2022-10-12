@@ -1,4 +1,4 @@
-/* 
+/*
  * Module: 3-quick_sort.c
  */
 

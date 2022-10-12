@@ -1,4 +1,4 @@
-/* 
+/*
  * Module: 107-quick_sort_hoare.c
  */
 

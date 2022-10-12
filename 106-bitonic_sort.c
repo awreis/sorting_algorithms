@@ -1,4 +1,4 @@
-/* 
+/*
  * Module: 106-bitonic_sort.c
  */
 
